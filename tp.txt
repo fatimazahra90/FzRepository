@@ -9,3 +9,4 @@ Activer dossier comme repository
 pour activer un dossier comme repository git , il faut   qu on se place dans ce dossier au niveau du terminal
 la commande est : git init
 
+--comment-- modification en ligne ---
