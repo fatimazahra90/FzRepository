@@ -1,13 +1,13 @@
-# ** Apropos de mon FzRepository **
+# A propos de mon Repository 
 
-## ** Introduction **
+## Introduction 
 
 A propos du tp [Git & GitHub - Partie 2 Activité]
 
 ici vous trouverez les différentes notes liées à ce cours
 
-> et un fichier tp.txt pour tester les différentes commandes
+> vous trouverez dans le repository ,un fichier tp.txt
 
-## ** Auteur **
+## Auteur 
 
 Fatima Zahra 
