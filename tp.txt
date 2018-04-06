@@ -3,3 +3,9 @@ c est a dire gerer les versions de votre code au fur et a mesure que vous le mod
 
 git appartient au modèle de logiciels de gestion de versions distibué où toutes les machines ont accès
  à la base de code et pas besoin de passer par un serveur central
+
+Activer dossier comme repository
+-------------------------------
+pour activer un dossier comme repository git , il faut   qu on se place dans ce dossier au niveau du terminal
+la commande est : git init
+
