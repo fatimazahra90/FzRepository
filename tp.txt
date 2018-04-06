@@ -1,2 +1,5 @@
-git est un logiciel de versioning qui permet de versionner votre cpre 
+git est un logiciel de versioning qui permet de versionner votre code
 c est a dire gerer les versions de votre code au fur et a mesure que vous le modifiez
+
+git appartient au modèle de logiciels de gestion de versions distibué où toutes les machines ont accès
+ à la base de code et pas besoin de passer par un serveur central
