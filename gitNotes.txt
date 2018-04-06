@@ -4,3 +4,9 @@ on utilise la commande git add
 
 lorsqu'on modifie le repository, on demande a git d'enregistrer les modifications avec la commande git commit
 --- git commit - "ici le commentaire du commit"
+
+chaque commit contient 
+SHA - Auteur - Date -Description
+
+et pour se positionner à un commit donné 
+--- git checkout sha_de_mon_commit
