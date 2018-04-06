@@ -1,0 +1,2 @@
+git est un logiciel de versioning qui permet de versionner votre cpre 
+c est a dire gerer les versions de votre code au fur et a mesure que vous le modifiez
