@@ -1,0 +1,6 @@
+lorsqu'on souhaite ajouter un fichier à l'index git 
+on utilise la commande git add
+---- git add nomFichier
+
+lorsqu'on modifie le repository, on demande a git d'enregistrer les modifications avec la commande git commit
+--- git commit - "ici le commentaire du commit"
